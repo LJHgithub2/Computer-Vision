@@ -1,0 +1,13 @@
+OpenCV 공식 문서:https://docs.opencv.org/4.x/
+
+Dlib 공식 문서:http://dlib.net/python/index.html
+
+얼굴 감지:https://www.ijirset.com/upload/2017/july/92_Face.pdf
+
+캐스케이드 분류기:https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf
+
+HOG 분류기:https://inria.hal.science/inria-00548512/document
+
+Open CV로 자신만의 객체 탐지기 만들기 :https://medium.com/@vipulgote4/guide-to-make-custom-haar-cascade-xml-file-for-object-detection-with-opencv-6932e22c3f0e
+
+Dlib으로 자신만의 객체 탐지기 만들기: https://learnopencv.com/training-a-custom-object-detector-with-dlib-making-gesture-controlled-applications/
